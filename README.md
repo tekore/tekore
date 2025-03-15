@@ -11,10 +11,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-%23D50C2D.svg?style=for-the-badge&logo=hetzner&logoColor=white)
 ![vSphere](https://img.shields.io/badge/vSphere-009E60?style=for-the-badge&logo=vmware&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -26,13 +24,13 @@
 ```json
 {
    "Profile": {
-      "CurrentFocus": "Kubernetes Certifications",
+      "CurrentFocus": "Certified Kubernetes Administrator (CKA)",
       "5YearGoals": "DevOps Architect / Contracting",
       "BaseInfo": {
-         "OperatingSystem": "PopOS",
+         "OperatingSystem": "Ubuntu",
          "GUI": "GDM",
-         "IDE": "PyCharm",
-         "Language": "Python",
+         "IDE": "VsCode",
+         "Languages": ["Python"],
          "MobileOS": "Android"
       }
    }
